@@ -1,0 +1,106 @@
+--2020-09-10 14:49:51--  http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz
+Resolving www.vision.caltech.edu (www.vision.caltech.edu)... 34.208.54.77
+Connecting to www.vision.caltech.edu (www.vision.caltech.edu)|34.208.54.77|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view [following]
+--2020-09-10 14:49:52--  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Resolving drive.google.com (drive.google.com)... 202.160.130.66, 2001::1f0d:5c05
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:21:23--  (try: 2)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:25:46--  (try: 3)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:30:11--  (try: 4)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:34:36--  (try: 5)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:39:03--  (try: 6)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:43:31--  (try: 7)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:47:58--  (try: 8)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:52:27--  (try: 9)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 16:56:56--  (try:10)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:01:28--  (try:11)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:05:58--  (try:12)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:10:28--  (try:13)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:14:59--  (try:14)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:19:29--  (try:15)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:23:59--  (try:16)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:28:30--  (try:17)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:33:00--  (try:18)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:37:30--  (try:19)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Retrying.
+
+--2020-09-10 17:42:01--  (try:20)  https://drive.google.com/file/d/1hbzc_P1FuxMkcabkgn9ZKinBwW683j45/view
+Connecting to drive.google.com (drive.google.com)|202.160.130.66|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:5c05|:443... failed: Connection timed out.
+Giving up.
+
