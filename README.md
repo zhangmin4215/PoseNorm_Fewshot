@@ -56,4 +56,4 @@ If you find our code or paper useful, please consider citing our work using the 
 |transfer |34.596(33.42)        |  48.148(46.47) |  
 
 
-I only finished dataset CUB on model proto, and the others are similar.
+I only finished dataset CUB on model proto/dynamic/transfer, and the others are similar.
